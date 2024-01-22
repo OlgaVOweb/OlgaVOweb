@@ -4,8 +4,9 @@
 - 💞️ I’m looking to collaborate on a common project for an internship
 - 📫 How to reach me - write in whatsapp: +31 643136663 
  
+![foodfoto](https://github.com/OlgaVOweb/OlgaVOweb/assets/139287449/145f55ba-d0d5-412e-a68e-2745438f58f1)
 
 <!---
 OlgaVOweb/OlgaVOweb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+---

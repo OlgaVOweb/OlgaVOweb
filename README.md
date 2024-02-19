@@ -1,7 +1,7 @@
-![alex-bachor-fWsT3PpoE-A-unsplash](https://github.com/OlgaVOweb/OlgaVOweb/assets/139287449/c064d76f-e949-48b0-a7f5-24eeee569b23)
-- 👋 Hi, I’m @OlgaVOweb
-- 👀 I’m interested in JavaScript
-- 🌱 I’m currently learning React
+![ilyuza-mingazova-9SaXRAqD6BA-unsplash (1)](https://github.com/OlgaVOweb/OlgaVOweb/assets/139287449/938e2ca0-1a89-43dc-a458-db5c3e1f1cb5)
+- 👋 Hi, I am Olga!
+- 👀 I’m interested in React Redux Node
+- 🌱 I’m currently learning SMM
 - 💞️ I’m looking to collaborate on a common project for an internship
 - 📫 How to reach me - write in whatsapp: +31 643136663 
 
